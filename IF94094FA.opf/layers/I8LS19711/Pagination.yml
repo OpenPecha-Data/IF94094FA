@@ -1,0 +1,88 @@
+id: f1ef5f1ffa9f4607bcf8128a824793db
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  2baa4184d29547f19bfed525b1642e28:
+    span:
+      start: 0
+      end: 577
+    imgnum: 1
+    reference: I8LS197110001.tif
+  7fa735129f3e456689a20f60cd6c649c:
+    span:
+      start: 578
+      end: 647
+    imgnum: 3
+    reference: I8LS197110003.jpg
+  99053403a80746fa84e406452c3b8f3e:
+    span:
+      start: 648
+      end: 1566
+    imgnum: 4
+    reference: I8LS197110004.jpg
+  bf4a9ad26cd1434fa5a4a6c330e7e733:
+    span:
+      start: 1567
+      end: 2729
+    imgnum: 5
+    reference: I8LS197110005.jpg
+  423d8b67efc7409c87feed88ea661f88:
+    span:
+      start: 2730
+      end: 3939
+    imgnum: 6
+    reference: I8LS197110006.jpg
+  edb8fc8693f449dc85a811f4d43c0679:
+    span:
+      start: 3940
+      end: 5148
+    imgnum: 7
+    reference: I8LS197110007.jpg
+  6581a4c0360e4e068cff70c0fbd4f5d4:
+    span:
+      start: 5149
+      end: 6366
+    imgnum: 8
+    reference: I8LS197110008.jpg
+  af9a50cc1e884beda47eb2e32624ba3c:
+    span:
+      start: 6367
+      end: 7520
+    imgnum: 9
+    reference: I8LS197110009.jpg
+  1be4225d496a4cfaa530e57e955a3dcc:
+    span:
+      start: 7521
+      end: 8685
+    imgnum: 10
+    reference: I8LS197110010.jpg
+  8789957851d34892abe90ee2d8b27761:
+    span:
+      start: 8686
+      end: 9827
+    imgnum: 11
+    reference: I8LS197110011.jpg
+  b7f5f7951b974ff98c90841fc1825296:
+    span:
+      start: 9828
+      end: 10980
+    imgnum: 12
+    reference: I8LS197110012.jpg
+  af3da21870c24985979b1833735a43f9:
+    span:
+      start: 10981
+      end: 12039
+    imgnum: 13
+    reference: I8LS197110013.jpg
+  fde0c7a5e91b4aaba7e76849be1f0b56:
+    span:
+      start: 12040
+      end: 13042
+    imgnum: 14
+    reference: I8LS197110014.jpg
+  e469a8812f7a4438bcae022ced3a0b67:
+    span:
+      start: 13043
+      end: 13882
+    imgnum: 15
+    reference: I8LS197110015.jpg
